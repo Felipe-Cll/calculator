@@ -4,7 +4,10 @@
 </p>
 
 ## :books: Informações
-Primeira versão do meu projeto "Calculadora em C#", o qual a aula foi orientada pelo Andre Baltieri. Neste projeto desenvolvi operações aritméticas com uma interface e código clean. 
+Primeira versão do meu projeto "Calculadora em C#", o qual a aula foi orientada pelo Andre Baltieri. Neste projeto desenvolvi operações aritméticas com a interface do console. Também houve aplicações de:
+- Separações de métodos
+- Armazenamento do que foi digitado
+- Utilização do Switch
 
 ## :pushpin: Tecnologias
 <ul>
